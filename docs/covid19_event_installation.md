@@ -1,4 +1,4 @@
-# Event Package Installation Guide v0.3.2
+# Event Package Installation Guide v0.3.2 { #covid19-event-installation }
 
 Last updated 27/03/2020
 
