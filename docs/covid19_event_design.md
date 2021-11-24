@@ -133,8 +133,7 @@ From the data captured in the COVID-19 line-listing program, we can calculate th
 |COVID-19 - Cases linked to known cluster|Cases where infection is suspected to have occurred by linkage to a known cluster of cases|
 |COVID-19 - Cases with unknown exposure|Cases where source of infection or exposure is unknown|
 |COVID-19 - Deaths|COVID-19 related deaths (deaths recorded among all suspected cases)|
-|
-COVID-19 - Confirmed Hospitalised Cases|Number of confirmed cases that were admitted into hospital|
+|COVID-19 - Confirmed Hospitalised Cases|Number of confirmed cases that were admitted into hospital|
 |COVID-19 - Imported Cases|Cases where likely source of infection is recorded as another country or imported from another country.|
 |COVID-19 - Laboratory confirmed cases|Suspected cases that were confirmed through laboratory testing (multiple lab tests may be conducted; this indicator assumes that the last test result is "Positive"); displayed by report date|
 |COVID-19 - Laboratory confirmed cases - by onset of symptoms|Suspected cases that were confirmed through laboratory testing (multiple lab tests may be conducted; this indicator assumes that the last test result is "Positive"); displayed by date of onset of symptoms|
