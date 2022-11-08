@@ -2,4 +2,4 @@
 
 ## Design
 
-[Version 1.0.0](#c19-evt-design)
+[Version 0.3.2](#c19-evt-design)
