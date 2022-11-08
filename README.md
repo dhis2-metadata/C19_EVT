@@ -1,1 +1,1 @@
-# COVID19_EVENT - Surveillance Event
+# COVID-19 Surveillance Events
