@@ -1,4 +1,4 @@
-# COVID-19 Surveillance Line-list Design { #covid19-event-design }
+# COVID-19 Surveillance Line-list Design { #c19-evt-design }
 
 Demo: [https://covid.dhis2.org](https://covid.dhis2.org/demo)
 
